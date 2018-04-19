@@ -1,5 +1,7 @@
 # Use-RawPipeline
 
+**NOTE** This repository is archived as it has been [relocated](https://github.com/GeeLaw/PowerShellThingies/tree/master/modules/Use-RawPipeline).
+
 This module provides better raw pipeline than PowerShell 5.
 
 > 中文使用者请参阅 [我的博客](https://geelaw.blog/entries/powershell-use-rawpipeline)。
